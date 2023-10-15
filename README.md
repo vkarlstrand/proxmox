@@ -12,11 +12,10 @@ DNS: 127.0.0.1
 
 # First setup
 1. Disable enterprise repositories in `Updates -> Repositories` under the pve node.
-1. Upgrade Proxmox: ´apt-get update && apt-get upgrade´
+1. Upgrade Proxmox: `apt-get update && apt-get upgrade`
 
 ### Windows 11 Home
 
 
 ### Ubuntu 22.04 Desktop
-1. Enable CPU
-´nano /etc/default/grub?´
+1. Insert `` into `nano /etc/default/grub?`
