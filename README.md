@@ -8,5 +8,9 @@ On SSD with ext4.
 Gateway: 192.168.1.1
 DNS: 127.0.0.1
 
-### Ubuntu 22.04 Desktop
+### Windows 11 Home
 
+
+### Ubuntu 22.04 Desktop
+1. Enable CPU
+  - nano /etc/default/grub
