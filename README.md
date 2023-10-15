@@ -10,9 +10,9 @@ Gateway: 192.168.1.1
 DNS: 127.0.0.1
 
 
-# First setup
-1. Disable enterprise repositories in `Updates -> Repositories` under the pve node.
-1. Upgrade Proxmox: `apt-get update && apt-get upgrade`
+## First setup
+1. Disable enterprise repositories in Updates -> Repositories under the pve node.
+2. Upgrade Proxmox: `apt-get update && apt-get upgrade`
 
 ### Windows 11 Home
 
