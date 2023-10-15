@@ -13,4 +13,4 @@ DNS: 127.0.0.1
 
 ### Ubuntu 22.04 Desktop
 1. Enable CPU
-  - nano /etc/default/grub
+`nano /etc/default/grub?`
